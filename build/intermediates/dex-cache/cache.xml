@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xiangcheng/Downloads/WarningEditText/app/build/intermediates/exploded-aar/WarningEditText/RangeEditText/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d43f6373ff03a1dbaf63c1dbf19d83f8f4e92695">
+        <dex dex="/Users/xiangcheng/Downloads/WarningEditText/app/build/intermediates/pre-dexed/debug/classes-0245d805857f76c6d870b456df21cc743f697435.jar" />
+    </item>
+
+</items>

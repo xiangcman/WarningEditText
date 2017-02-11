@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WarningEditText</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="warning_leftTop">warning:warning_align=\"leftTop\"</string>
+    <string name="warning_rightTop">warning:warning_align=\"rightTop\"</string>
+    <string name="warning_leftButtom">warning:warning_align=\"leftButtom\"</string>
+    <string name="warning_rightButtom">warning:warning_align=\"rightButtom\"</string>
+</resources>

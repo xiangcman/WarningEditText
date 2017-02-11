@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:warning="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/warning_leftTop" />
+
+    <warningedittext.single.com.library.WarningEditText
+        android:id="@+id/warning_et"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:paddingLeft="3dp"
+        android:paddingTop="0dp"
+        warning:warning_align="leftTop"
+        warning:warning_text="请输入姓名" />
+
+    <EditText
+        android:id="@+id/test_et"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/warning_back"
+        android:gravity="left"
+        android:hint="普通的输入框"
+        android:textSize="13sp"/>
+</LinearLayout>
